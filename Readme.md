@@ -1,8 +1,13 @@
+## Stats
+- DP : 2/19
+- Graph : 2/36
+- Tree : 2/16
+
 ## Revision Checklist 
 
 ### DP
-[ ] https://cses.fi/problemset/task/1634/ | Top down gives TLE 
+- https://cses.fi/problemset/task/1634/ | Top down gives TLE 
 ### Graph
-[ ] https://cses.fi/problemset/task/1193/ | gave me a hard time solving, though straight forward problem
+- https://cses.fi/problemset/task/1193/ | gave me a hard time solving, though straight forward problem
 ### Tree
-[ ] https://cses.fi/problemset/task/1131/ | N-Ary tree diameter, not convenient
+- https://cses.fi/problemset/task/1131/ | N-Ary tree diameter, not convenient
