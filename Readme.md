@@ -1,7 +1,7 @@
 ## Stats
-- DP : 2/19
-- Graph : 2/36
-- Tree : 2/16
+- DP : 3/19
+- Graph : 3/36
+- Tree : 3/16
 
 ## Revision Checklist 
 
