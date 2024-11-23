@@ -1,7 +1,7 @@
 ## Stats
-- DP : 4/19
-- Graph : 4/36
-- Tree : 4/16
+- DP : 5/19
+- Graph : 5/36
+- Tree : 5/16
 
 ## Revision Checklist 
 
@@ -13,3 +13,4 @@
 ### Tree
 - https://cses.fi/problemset/task/1131/ | N-Ary tree diameter, not convenient
 - https://cses.fi/problemset/task/1132/ | very good question, for optimization
+- https://cses.fi/problemset/task/1133/ | Important question.
